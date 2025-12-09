@@ -1,0 +1,32 @@
+# Exact Package Versions Needed
+
+# If you need to install packages manually or on another system, use these exact versions:
+
+## Dependencies (npm install --save):
+- framer-motion@11.15.0
+- lucide-react@0.556.0
+- next@15.1.0
+- react@19.0.0
+- react-dom@19.0.0
+
+## Dev Dependencies (npm install --save-dev):
+- @types/node@22.10.2
+- @types/react@19.0.2
+- typescript@5.7.2
+- tailwindcss@3.4.1
+- postcss@8.4.35
+- autoprefixer@10.4.17
+
+## Commands to Install Manually:
+
+```bash
+# Install dependencies
+npm install framer-motion@11.15.0 lucide-react@0.556.0 next@15.1.0 react@19.0.0 react-dom@19.0.0
+
+# Install dev dependencies
+npm install -D @types/node@22.10.2 @types/react@19.0.2 typescript@5.7.2 tailwindcss@3.4.1 postcss@8.4.35 autoprefixer@10.4.17
+```
+
+## Alternative: Use this complete package.json
+
+Copy the package.json file in this directory - it has all the correct versions specified.
